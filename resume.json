@@ -1,0 +1,97 @@
+{
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15798660?v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "兰玉平 (judy.lan)",
+    "email": "912093414@qq.com",
+    "mobile": "18805057387",
+    "github": "",
+    "zhihu": "",
+    "birthday": "1991.12",
+    "positionTitle": "功能测试工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2011.09.01", "2015.06.30"],
+      "school": "中南民族大学",
+      "major": "法学(本科)",
+      "academic_degree": ""
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "计算机二级",
+      "award_time": "2012.09"
+    },
+    {
+      "award_info": "校三好学生 奖学金",
+      "award_time": "2012～2015"
+    },
+    {
+      "award_info": "中南财经政法大学双学位",
+      "award_time": "2015"
+    },
+    {
+      "award_info": "龙岩市行政审批 先进工作者",
+      "award_time": "2021.02"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "龙岩市行政服务中心",
+      "department_name": "社保中心前台窗口",
+      "work_time": ["2018.09", "2021.12"],
+      "work_desc": "1. 受理前台群众咨询、查询业务\r\n 2. 熟练使用社保系统，主要负责处理企业经办人工伤、养老、失业等相关业务\r\n3. sql分析前台窗口人员的月报表(叫号量、好评量)，以及窗口人员的办件量"
+    },
+    {
+      "company_name": "MAB智库",
+      "department_name": "功能测试工程师",
+      "work_time": ["2015.07", "2017.09"],
+      "work_desc": "1. 参与需求分析并提炼测试要点，编写测试用例\r\n 2. 与研发，产品有效沟通，保证测试效率和测试质量\r\n 3. 执行测试用例，准确定位并跟踪问题，及时、有效的与开发人员沟通，推动问题的解决"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "熟练了解测试流程,独立完成测试用例编写",
+      "skill_desc": "",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "Postman",
+      "skill_desc": "熟练使用Postman以各种请求方式进行接口测试，了解常用Postman的检查点",
+      "skill_level": 85
+    },
+    {
+      "skill_name": "Mysql",
+      "skill_desc": "掌握基本的DML、DQL",
+      "skill_level": 85
+    },
+    {
+      "skill_name": "测试相关工具",
+      "skill_desc": "禅道、Fiddler, 了解JMeter",
+      "skill_level": 85
+    }
+  ],
+  "projectList": [
+    {
+      "project_name": "MBA智库·文档",
+      "project_role": "功能测试",
+      "project_time": "2015.07 - 2017.09",
+      "project_desc": "管理资源分享平台，分享管理资源；支持用户对Office文档（包括Word、Excel、Powerpoint）、Adobe PDF文档进行了全文搜索, 会员积分下载制",
+      "project_content": "1. 根据需求文档，编写测试用例并执行测试用例\n2. 测试管理，每日跟进开发缺陷解决情况，定期输出测试报告汇报上级\n 3. 完善产品质量，保证产品正常上线 "
+    },
+    {
+      "project_name": "MBA智库·课堂",
+      "project_role": "功能测试",
+      "project_time": "2017.05 - 2017.09",
+      "project_desc": "智库课堂是一款提供线上课程学习的平台，支持PC、安卓、IOS客户端，以及微信小程序(智库课堂+)",
+      "project_content": "1. 参与需求评审，制定测试计划，设计测试用例\n 2. 执行测试用例，寻找缺陷\n 3.使用Fiddler进行客户端抓包, 协助开发查找问题"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 专注于软件功能测试\n \uD83D\uDE08  婚育状况：已婚已育\n 😈 能力项：自学能力、沟通协调能力强、具有良好的逻辑分析能力，高度执行力\n。 自毕业以来，工作时长5年，在工作中责任感强、工作细致认真、踏实有耐心，有良好的团队精神，善于与人沟通，能够承受工作压力，多次获得优秀个人奖"
+  }
+}
