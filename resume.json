@@ -72,14 +72,14 @@
   "projectList": [
     {
       "project_name": "MBA智库·文档",
-      "project_role": "功能测试",
+      "project_role": "功能测试工程师",
       "project_time": "2015.07 - 2017.09",
       "project_desc": "管理资源分享平台，分享管理资源；支持用户对Office文档（包括Word、Excel、Powerpoint）、Adobe PDF文档进行了全文搜索, 会员积分下载制",
       "project_content": "\n1. 根据需求文档，编写测试用例并执行测试用例\n2. 测试管理，每日跟进开发缺陷解决情况，定期输出测试报告汇报上级\n 3. 完善产品质量，保证产品正常上线 "
     },
     {
       "project_name": "MBA智库·课堂",
-      "project_role": "功能测试",
+      "project_role": "功能测试工程师",
       "project_time": "2017.05 - 2017.09",
       "project_desc": "智库课堂是一款提供线上课程学习的平台，支持PC、安卓、IOS客户端，以及微信小程序(智库课堂+)",
       "project_content": "\n1. 参与需求评审，制定测试计划，设计测试用例\n 2. 执行测试用例，寻找缺陷\n 3.使用Fiddler进行客户端抓包, 协助开发查找问题"
