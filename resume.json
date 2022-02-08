@@ -9,7 +9,7 @@
     "mobile": "18805057387",
     "github": "",
     "zhihu": "1991.12",
-    "workExpYear": "5年",
+    "workExpYear": "5年 已离职-随时到岗",
     "positionTitle": "功能测试工程师"
   },
   "educationList": [
@@ -67,6 +67,11 @@
       "skill_name": "Mysql",
       "skill_desc": "掌握Mysql基本的DML、DQL",
       "skill_level": 85
+    },
+    {
+      "skill_name": "Linux",
+      "skill_desc": "掌握Linux常用命令",
+      "skill_level": 80
     }
   ],
   "projectList": [
