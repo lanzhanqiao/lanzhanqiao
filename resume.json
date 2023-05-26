@@ -9,8 +9,8 @@
     "mobile": "18805057387",
     "github": "",
     "zhihu": "1991.04",
-    "workExpYear": "5年 已离职-随时到岗",
-    "positionTitle": "功能测试工程师"
+    "workExpYear": "6年 在岗",
+    "positionTitle": "测试工程师"
   },
   "educationList": [
     {
@@ -36,9 +36,23 @@
     {
       "award_info": "龙岩市行政审批 先进工作者",
       "award_time": "2021.02"
+    },
+    {
+      "award_info": "星光闪耀奖",
+      "award_time": "2022.12"
+    },
+    {
+      "award_info": "华为测试可信认证",
+      "award_time": "2022.12"
     }
   ],
   "workExpList": [
+    {
+      "company_name": "深圳易宝软件有限公司",
+      "department_name": "华为项目外包",
+      "work_time": ["2022.02", "至今"],
+      "work_desc": "1. 参与需求分析、制定测试计划、编写测试方案、设计测试用例\r\n2. 依据接口文档编写接口测试用例，开展接口测试\r\n3. 测试执行、缺陷处理、输出测试报告、编写用户手册 "
+    },
     {
       "company_name": "龙岩市行政服务中心",
       "department_name": "社保中心功能测试",
@@ -75,6 +89,13 @@
     }
   ],
   "projectList": [
+    {
+      "project_name": "系统设计",
+      "project_role": "功能测试",
+      "project_time": "2022.02 - 至今",
+      "project_desc": "系统设计包含 权限统一管理、领域分析、全量设计三大系统，主要就是给华为内部产品和研发人员使用，将各产品线用户的原始需求进行分析，生成在线文档，用于需求评审",
+      "project_content": "\n1. 负责功能、接口测试\n 2.跟踪问题,输出测试报告,生成用户手册\n 3.进行少量自动化支持"
+    },
     {
       "project_name": "市行政服务中心·社保系统",
       "project_role": "功能测试",
