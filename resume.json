@@ -74,7 +74,7 @@
     },
     {
       "skill_name": "测试相关工具",
-      "skill_desc": "熟练使用Postman以各种请求方式进行接口测试; 禅道、Fiddler, 了解JMeter",
+      "skill_desc": "熟练使用Postman以各种请求方式进行接口测试; Testin、Fiddler, JMeter",
       "skill_level": 85
     },
     {
@@ -86,6 +86,11 @@
       "skill_name": "Linux",
       "skill_desc": "掌握Linux常用命令",
       "skill_level": 70
+    },
+    {
+      "skill_name": "编程语言",
+      "skill_desc": "Python",
+      "skill_level": 65
     }
   ],
   "projectList": [
@@ -115,7 +120,7 @@
       "project_role": "功能测试",
       "project_time": "2022.02 - 2023.07",
       "project_desc": "系统设计包含 权限统一管理、领域分析、全量设计三大系统，主要就是给华为内部产品和研发人员使用，将各产品线用户的原始需求进行分析，生成在线文档，用于需求评审",
-      "project_content": "\n1. 负责功能、接口测试\n2.跟踪问题,输出测试报告,生成用户手册\n3.进行少量自动化支持"
+      "project_content": "\n1. 负责功能、接口测试\n2. 跟踪问题,输出测试报告,生成用户手册\n3. 进行少量自动化支持"
     },
     {
       "project_name": "市行政服务中心·社保系统",
